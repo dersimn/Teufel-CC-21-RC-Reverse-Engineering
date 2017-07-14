@@ -1,6 +1,7 @@
-The Teufel CC 21 RC was part of e.g. the Teufel C200 USB 2.1 speaker system. Lacking the abbility to attach an IR remote, it's difficult to use the system for e.g. in a living room situation. Reverse engineering the (wire-based) protocol may give the ability to build a microcontroller (using an Arduino or ESP8266) to control the speakers remotely using IR/WiFi.
+![System](https://images-na.ssl-images-amazon.com/images/I/41LF%2BbP1QDL._SY355_.jpg)
 
-![Remote](https://d24p66wtav075e.cloudfront.net/media/teufel/oart_0/oart_c/oart_146/thumbs/9625_264350.jpg)
+The "Teufel CC 21 RC" was part of e.g. the "Teufel C200 USB" 2.1 speaker system.  
+Lacking the abbility to attach an IR remote, it's difficult to use the system for e.g. in a living room situation. Reverse engineering the (wire-based) protocol may give the ability to build a microcontroller (using an Arduino or ESP8266) to control the speakers remotely using IR/WiFi.
 
 ## Connector Pinout
 
