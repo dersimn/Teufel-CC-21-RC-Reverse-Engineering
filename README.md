@@ -23,7 +23,7 @@ Rx, TX lines are plain UART with 19200 baud rate. You can inspect the traffic by
 The volume +/- messages are only working in one direction (from the remote to the subwoofer), so it's impossible to implement a "man in the middle"-microcontroller.  
 If you send a `162` to the remote, the LED indicator will *not* change.
 
-There are 28 Volume levels, that I'll call `0-27` of which `0` turns off the power amplifier (you will hear a relay clicking, when the sub reaches this level) and +/- 5 Bass levels, `-5 -4 -3 -2 -1 0 1 2 3 4 5`.
+There are 28 Volume levels, that I'll call `0-28` of which `0` turns off the power amplifier (you will hear a relay clicking, when the sub reaches this level) and +/- 5 Bass levels, `-5 -4 -3 -2 -1 0 1 2 3 4 5`. After plugging in the remote it starts at volume level `8` and bass level `0`.
 
 
 [htermsettings]: /docs/hterm.png
